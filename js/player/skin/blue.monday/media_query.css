@@ -1,0 +1,8 @@
+@media only screen and (min-width : 480px){
+	div.jp-video ul.jp-controls, div.jp-interface ul.jp-controls li {
+		padding-top:1%;
+	}
+	div.jp-audio div.jp-type-single div.jp-progress {
+		width: 94%;
+	}
+}
